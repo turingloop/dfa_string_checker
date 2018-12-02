@@ -1,5 +1,3 @@
-##Deterministic Finite Automata(DFA) string checker
-
 I attached a screenshot to help you with how to give outputs.
 
 If you don't want to the built the software again, just use the jar file i attached. 
@@ -17,4 +15,3 @@ Just in case if you want to know how my code works, i am attaching my source fil
 5. Now the program will tell you if it is accepted or not!
 
 Hope these instructions helped you!
-
